@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #164863  ;
+    color: #DDF2FD ;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    background-color: #427D9D;
+    padding-inline: 40px;
+}
+
+div.navbar_logo {
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
