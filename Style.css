@@ -39,6 +39,7 @@ div.nav_menu {
 
 .row {
   display: flex;
+  max-width: 950px;
 }
 
 .column {
