@@ -37,6 +37,14 @@ div.nav_menu {
   align-items: center;
 }
 
+.section1 {
+  color: #ddf2fd
+}
+
+.section1 h1 {
+  padding: 10px;
+}
+
 .row {
   display: flex;
   max-width: 950px;
@@ -45,6 +53,7 @@ div.nav_menu {
 .column {
   flex: 100%;
   padding: 5px;
+  padding-left: 10px
 }
 
 .column img {
@@ -62,5 +71,5 @@ div.nav_menu {
     flex: 50%;
     padding: 5px;
   }
-  
+
 }
