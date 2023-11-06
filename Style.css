@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #427d9d;
+  background-color: #164863;
   color: #ddf2fd;
   font-family: "Roboto", sans-serif;
 }
@@ -14,7 +14,7 @@ nav {
   display: flex;
   justify-content: space-between;
   height: 80px;
-  background-color: #164863;
+  /* background-color: #164863; */
   padding-inline: 40px;
   align-items: center;
 }
@@ -52,6 +52,9 @@ div.nav_menu {
 
 .section1 {
   color: #ddf2fd;
+  justify-content:center;
+  align-items: center;
+  text-align: center;
 }
 
 .section1 h1 {
@@ -60,7 +63,7 @@ div.nav_menu {
 
 .row {
   display: flex;
-  max-width: 950px;
+  align-items: center;
 }
 
 .column {
